@@ -86,3 +86,6 @@ for index, word in enumerate(vocab):
   out_m.write(word + "\n")
 out_v.close()
 out_m.close()
+
+## Projector:
+## http://projector.tensorflow.org/
